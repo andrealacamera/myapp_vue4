@@ -7,5 +7,5 @@ module.exports = {
       enableInSFC: false
     }
   },
-  publicPath: '/myapp_vue4'
+  publicPath: '/test-vue4'
 }
