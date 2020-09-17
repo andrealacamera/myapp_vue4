@@ -2,6 +2,7 @@
 This app is based on:
 - [Vue.JS](https://vuejs.org/)
 - [Vue I18n](https://kazupon.github.io/vue-i18n/)
+- [Bootstrap 5](https://v5.getbootstrap.com/)
 
 ## Project setup
 ```
