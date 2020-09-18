@@ -59,13 +59,13 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .container {
-  display: block;
+  display: grid;
   justify-content: center;
 }
 .locale-changer {
   color: #888;
-  position: flex;
-  justify-content: end;
+  display: flex;
+  justify-content: flex-end;
   cursor: pointer;
 }
 .selected {
